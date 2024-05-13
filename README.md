@@ -8,7 +8,7 @@ I'm harnessing the power of DevOps practices to create seamless pipelines and ro
 
 **My DevOps Toolkit:**
 
-* **Scripting Languages:** Python (for automation magic!) 
+* **Scripting Languages:** Python and Shell Scripting (for automation magic!) 
 * **Infrastructure as Code:** Terraform (building infrastructure with code!) 
 * **CI/CD:**  Jenkins (orchestrating deployments with precision!) ⚙️
 * **Cloud Platforms:** AWS (leveraging the power of the cloud!) ☁️
