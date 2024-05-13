@@ -1,6 +1,6 @@
 ## ‍ Welcome to My DevOps Playground! ‍
 
-**Hey there! I'm Komal Thakur,** an aspiring DevOps Engineer on a mission to bridge the gap between development and operations. Fueled by a background in EdTech, I'm passionate about using data and automation to make learning experiences smoother, faster, and more scalable. 
+**Hey there! I'm Komal ,** an aspiring DevOps Engineer on a mission to bridge the gap between development and operations. Fueled by a background in EdTech, I'm passionate about using data and automation to make learning experiences smoother, faster, and more scalable. 
 
 **Building the Bridge with DevOps:** 
 
