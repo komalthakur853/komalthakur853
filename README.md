@@ -1,27 +1,46 @@
-## ‍ Welcome to My DevOps Playground! ‍
+# 👋 Hi, I'm Komal Jaiswal
 
-**Hey there! I'm Komal ,** an aspiring DevOps Engineer on a mission to bridge the gap between development and operations. Fueled by a background in EdTech, I'm passionate about using data and automation to make learning experiences smoother, faster, and more scalable. 
+### ⚙️ DevOps Engineer | 🤖 AIOps & Agentic AI Explorer | ☁️ Cloud Infrastructure Architect
 
-**Building the Bridge with DevOps:** 
+I design and ship **enterprise-grade, self-healing infrastructure** for Fortune 500 clients — and I'm now pushing DevOps into its next era: **AI-integrated pipelines, autonomous code review, and LLM agent-based automation.**
 
-I'm harnessing the power of DevOps practices to create seamless pipelines and robust infrastructure. Every line of code, every configuration file, is a brick in the bridge I'm building between educators and learners. ️
+---
 
-**My DevOps Toolkit:**
+### 🚀 What I Do
+- 🏗️ Architect highly available, multi-region **Kubernetes** infrastructure for enterprise clients (DP World, Maximore)
+- 🤖 Build **AI-integrated CI/CD pipelines** using Google Code Assist — autonomous code review, auto-correction, compliance-gated merging
+- 🔒 Engineer **DevSecOps products** that block vulnerable code before it ever merges
+- 📊 Design **full-stack observability platforms** (Prometheus, Grafana, ELK, OpenTelemetry) that cut incident detection by 70%
+- 🧠 Currently building an **LLM agent-based internal launchpad** to bring agentic AI into everyday DevOps workflows
 
-* **Scripting Languages:** Python and Shell Scripting (for automation magic!) 
-* **Infrastructure as Code:** Terraform (building infrastructure with code!) 
-* **CI/CD:**  Jenkins (orchestrating deployments with precision!) ⚙️
-* **Cloud Platforms:** AWS (leveraging the power of the cloud!) ☁️
-* **Monitoring & Observability:** Prometheus (keeping a watchful eye on everything!) 
+---
 
-**EdTech with a DevOps Twist:**
+### 🏆 Impact By The Numbers
+| Metric | Result |
+|---|---|
+| 🎯 Production Uptime SLA | **99.99%** |
+| 💰 Infra Cost Reduction | **30%** |
+| ⚡ Deployment Speed | **60% faster** |
+| 🛠️ MTTR Improvement | **80% reduction** |
+| 🔍 Incident Detection | **70% faster** |
+| 📈 Deployment Success Rate | **99.9%** across 10+ microservices |
+| 👥 Team Impact | Trained 40+ engineers, **85% certification pass rate** |
+| 🥇 Recognition | **Top Performer** among 40+ engineers |
 
-Imagine automated deployments of new learning modules, infrastructure that scales with student enrollment, and real-time data insights to personalize the learning journey. That's the future I'm building! 
+---
 
-**Let's Collaborate!**
+### 🛠️ Tech I Work With
+**Cloud:** AWS (EC2, EKS, Lambda, VPC, IAM) · Azure (AKS, App Service)
+**Containers:** Kubernetes · Docker · Helm
+**IaC:** Terraform · Ansible · CloudFormation
+**CI/CD:** Jenkins · GitLab CI/CD · GitHub Actions · Google Code Assist
+**Observability:** Prometheus · Grafana · ELK Stack · OpenTelemetry · Datadog
+**AI/Automation:** AIOps · MLOps · LLM Agents · Agentic Workflows · Prompt Engineering
+**Languages:** Python · Bash · SQL · YAML
 
-I'm always eager to connect with fellow DevOps enthusiasts and education innovators. Whether it's building a deployment pipeline for the next educational app or brainstorming DevOps solutions for learning platforms, let's create something extraordinary together! 
+---
 
-**Connect with me on LinkedIn:** www.linkedin.com/in/komal-thakur-kt853  and let's embark on this DevOps-driven educational adventure! 
+### 🌱 What's Next
+Exploring how **agentic AI reshapes DevOps** — from self-healing pipelines to autonomous incident response. Always building, always automating.
 
-**Happy hacking (and learning)!** ️
+📫 Reach me: komaljaiswal853@gmail.com | [LinkedIn](https://linkedin.com/in/komaljaiswal999)
