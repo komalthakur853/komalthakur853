@@ -1,12 +1,12 @@
 <!-- Animated gradient header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=Komal%20Jaiswal&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20Kubernetes%20%7C%20AIOps%20%7C%20Solutions%20Architecture&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=230&section=header&text=Komal%20Jaiswal&fontSize=62&fontColor=F7E7A1&fontAlignY=38&desc=Cloud%20%7C%20Kubernetes%20%7C%20AIOps%20%7C%20Solutions%20Architecture&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/komalthakur853">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=DevOps+Specialist+%40+Opstree;Building+self-healing+infrastructure;AI-integrated+CI%2FCD+%26+LLM+agents;Solutions+Architect+%7C+Pre-Sales+%7C+Speaker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Aptos&weight=400&size=34&duration=3200&pause=900&color=F7E7A1&background=800020&center=true&vCenter=true&width=1000&height=70&lines=DevOps+Specialist+%40+Opstree;Building+self-healing+infrastructure;AI-integrated+CI%2FCD+%26+LLM+agents;Solutions+Architect+%7C+Pre-Sales+%7C+Speaker" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,12 +24,12 @@ I design and ship **enterprise-grade, self-healing infrastructure** for Fortune 
 
 Beyond engineering, I work in **pre-sales, proposals and GTM**, designing cloud architectures (including **GCP**) for large enterprises, and I enjoy teaching and **speaking** (🎤 Confluent Meetup).
 
-- 🏗️ Multi-region, highly available **Kubernetes** platforms (99.99% uptime SLA)
-- 🤖 **AI-powered CI/CD** with Google Code Assist: auto review, auto-correction, compliance-gated merging
-- 🔒 **DevSecOps** products that block vulnerable code before it merges
-- 📊 Full-stack **observability** (Prometheus, Grafana, ELK, OpenTelemetry)
-- 🧠 Building an **LLM agent-based internal launchpad** for everyday DevOps workflows
-- ✍️ 10+ technical articles · 40+ engineers trained · 🎤 Meetup speaker
+- Multi-region, highly available **Kubernetes** platforms (99.99% uptime SLA)
+- **AI-powered CI/CD** with Google Code Assist: auto review, auto-correction, compliance-gated merging
+- **DevSecOps** products that block vulnerable code before it merges
+- Full-stack **observability** (Prometheus, Grafana, ELK, OpenTelemetry)
+- Building an **LLM agent-based internal launchpad** for everyday DevOps workflows
+- 10+ technical articles · 40+ engineers trained · 🎤 Meetup speaker
 
 ---
 
@@ -86,10 +86,10 @@ Beyond engineering, I work in **pre-sales, proposals and GTM**, designing cloud 
 
 | Project | What it does |
 |---|---|
-| 🤖 **AI CI/CD Pipeline** | Autonomous code review and compliance-gated merging with Google Code Assist |
-| 🔒 **DevSecOps Gate** | Commit-level vulnerability scanning with remediation suggestions |
-| 🧠 **LLM Launchpad** | Agentic AI for DevOps workflows and incident response |
-| ☁️ **GCP Reference Architecture** | Scalable, low-downtime architecture patterns (sanitized demo) |
+| **AI CI/CD Pipeline** | Autonomous code review and compliance-gated merging with Google Code Assist |
+| **DevSecOps Gate** | Commit-level vulnerability scanning with remediation suggestions |
+| **LLM Launchpad** | Agentic AI for DevOps workflows and incident response |
+| **GCP Reference Architecture** | Scalable, low-downtime architecture patterns (sanitized demo) |
 
 > Add links to your public repos here once they're pushed.
 
@@ -97,17 +97,17 @@ Beyond engineering, I work in **pre-sales, proposals and GTM**, designing cloud 
 
 ## ✍️ Writing & talks
 
-- 🎤 **Confluent Meetup:** *[talk title]* ([slides / recording](#))
-- 📝 Articles: *[link 1]* · *[link 2]* · *[link 3]*
-
+- **Confluent Meetup:** *[Summary Culture is killing us]* ([slides / recording](#))
+- **Articles:** *[link 1]* · *[link 2]* · *[link 3]*
+- **Substack**
 ---
 
 ## 🤝 Let's connect
 
-I'm open to **Solutions Architect, Developer Advocate and DevRel** roles, and to freelance technical content and architecture consulting.
+I'm open to **DevOps , Solutions Architect, Developer Advocate and DevRel** roles, and to freelance technical content and architecture consulting.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/komaljaiswal999/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=110&section=footer" width="100%" alt="footer" />
