@@ -17,7 +17,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/komalthakur853">
-    <img src="https://readme-typing-svg.demolab.com?font=Aptos&weight=400&size=34&duration=3200&pause=900&color=F7E7A1&background=800020&center=true&vCenter=true&width=1000&height=70&lines=DevOps+Specialist+%40+Opstree;Building+self-healing+infrastructure;AI-integrated+CI%2FCD+%26+LLM+agents;Solutions+Architect+%7C+Pre-Sales+%7C+Speaker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Aptos&weight=400&size=34&duration=3200&pause=900&color=F7E7A1&background=4A0817&center=true&vCenter=true&width=1000&height=70&lines=DevOps+Specialist+%40+Opstree;Building+self-healing+infrastructure;AI-integrated+CI%2FCD+%26+LLM+agents;Solutions+Architect+%7C+Pre-Sales+%7C+Speaker" alt="Typing SVG" />
   </a>
 </p>
 
