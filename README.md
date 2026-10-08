@@ -3,8 +3,6 @@
   <img src="https://drive.google.com/thumbnail?id=1YQ2_2HyC48o_77UImckbSlD9OLoGsex7&sz=w1584" alt="Komal Jaiswal, DevRel Engineer for secure, AI-assisted software delivery" width="100%" />
 </p>
 
-<h3 align="center">DevRel Engineer • DevSecOps • AI Agents</h3>
-
 <p align="center">
   <code>DevOps</code> • <code>DevSecOps</code> • <code>AI Agents</code> • <code>Kubernetes</code> • <code>GCP</code> • <code>AWS</code> • <code>Terraform</code>
 </p>
