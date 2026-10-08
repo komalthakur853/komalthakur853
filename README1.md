@@ -116,7 +116,7 @@ pie showData title Where my time goes
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,aws,azure,kubernetes,docker,terraform,ansible,linux,bash,python,git&perline=11&theme=dark" alt="core stack" />
   <br>
-  <img src="https://skillicons.dev/icons?i=jenkins,gitlab,githubactions,bitbucket,prometheus,grafana,elasticsearch,redis,sql,vscode,md&perline=11&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=jenkins,gitlab,githubactions,bitbucket,prometheus,grafana,elasticsearch,redis,vscode,md&perline=11&theme=dark" alt="tools" />
 </p>
 
 <details open>
@@ -269,10 +269,20 @@ flowchart LR
 timeline
     title From student to developer advocate
     2017 - 2021 : B.E. Computer Science : Quantum School of Technology
+    2022 - Apr 2024 : Marketing Associate : [Company name] : Messaging, audiences and growth
     May 2024 : DevOps Trainee : My Gurukulam, powered by Opstree Global : CI/CD, Docker, Kubernetes, Terraform
     Apr 2025 : DevOps Specialist : Opstree Global : Fortune 500 infrastructure : Pre-sales and GTM
     2025 - 2026 : DevRel and AI : Confluent Meetup talk : 10+ articles, 14+ case studies : AI CI/CD, DevSecOps, LLM launchpad
 ```
+
+| Period | Role | Company |
+|:--|:--|:--|
+| **Apr 2025 – Present** | DevOps Specialist (DevRel, DevSecOps, Pre-Sales) | Opstree Global, Noida |
+| **May 2024 – Apr 2025** | DevOps Trainee | My Gurukulam, powered by Opstree Global, Noida |
+| **2022 – Apr 2024** | Marketing Associate | [Company name] |
+| **2017 – 2021** | B.E. Computer Science | Quantum School of Technology |
+
+> 💡 My marketing background is why I'm good at DevRel: I know how to find an audience, shape a message and explain technical work in a way people actually want to read.
 
 **Highlights:** 🥇 Top Performer among 40+ engineers · 🏗️ 5+ end-to-end Fortune 500 deployments · 🔁 CI/CD for 10+ microservices across hybrid cloud · 💰 30% annual infra cost reduction
 
