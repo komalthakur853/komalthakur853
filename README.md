@@ -1,6 +1,21 @@
 <!-- Animated gradient header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=230&section=header&text=Komal%20Jaiswal&fontSize=62&fontColor=F7E7A1&fontAlignY=38&desc=Cloud%20%7C%20Kubernetes%20%7C%20AIOps%20%7C%20Solutions%20Architecture&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://drive.google.com/thumbnail?id=1YQ2_2HyC48o_77UImckbSlD9OLoGsex7&sz=w1584" alt="Komal Jaiswal, DevRel Engineer for secure, AI-assisted software delivery" width="100%" />
+</p>
+
+<h1 align="center">K O M A L &nbsp; J A I S W A L</h1>
+
+<h3 align="center">DevRel Engineer • DevSecOps • AI Agents</h3>
+
+<p align="center">
+  <code>DevOps</code> • <code>DevSecOps</code> • <code>AI Agents</code> • <code>Kubernetes</code> • <code>GCP</code> • <code>AWS</code> • <code>Terraform</code>
+</p>
+
+<h3 align="center"><em>Building secure, AI-assisted software delivery, and teaching how it works.</em></h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/komaljaiswal999/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/komalthakur853"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <!-- Typing animation -->
